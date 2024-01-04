@@ -46,3 +46,4 @@ C:\Users\benja\source\repos\LCO\bin\Debug\net46\Unity.Profiling.Core.dll
 C:\Users\benja\source\repos\LCO\obj\Debug\net46\LCO.csproj.CopyComplete
 C:\Users\benja\source\repos\LCO\obj\Debug\net46\LCO.dll
 C:\Users\benja\source\repos\LCO\obj\Debug\net46\LCO.pdb
+C:\Users\benja\source\repos\LCO\obj\Debug\net46\LCO.sourcelink.json

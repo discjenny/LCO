@@ -32,11 +32,13 @@ namespace LCO
         {
             Instance = this;
 
+            employee = new Employee();
+
             logger = base.Logger;
 
             logger.LogInfo("LCO is loading...");
 
-            employee.Init();
+            
             
             try
             {
