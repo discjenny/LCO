@@ -1,5 +1,0 @@
-.vs
-obj
-Properties
-LCO.csproj
-LCO.sln
